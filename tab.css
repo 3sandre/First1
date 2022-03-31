@@ -1,0 +1,7 @@
+table,td,th,tr{
+	border: 1px solid blue;
+	border-collapse: collapse;
+}
+thead {
+	background-color: yellow ;
+}
